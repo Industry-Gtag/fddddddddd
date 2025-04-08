@@ -1,1 +1,1 @@
-Emote,Reallmaoo
+Emote,Reallmaoo,com.ColossusYTTV.gorillatag.ColossalEmotes
