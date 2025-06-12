@@ -1,1 +1,1 @@
-com.goldentrophy.gorillatag.fortniteemotewheel,com.ColossusYTTV.gorillatag.Reallmaoo,com.ColossusYTTV.gorillatag.ColossalEmotes,org.vortex.gorillatag,org.vorte.gorillatag
+com.ColossusYTTV.gorillatag.Reallmaoo,com.ColossusYTTV.gorillatag.ColossalEmotes,org.vortex.gorillatag,org.vorte.gorillatag
