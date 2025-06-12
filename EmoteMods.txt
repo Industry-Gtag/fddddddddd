@@ -1,1 +1,1 @@
-com.ColossusYTTV.gorillatag.Reallmaoo,com.ColossusYTTV.gorillatag.ColossalEmotes,org.vortex.gorillatag,org.vorte.gorillatag
+None
