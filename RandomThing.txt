@@ -1,1 +1,5 @@
-
+{
+  "CurrentVersion": "1.0.0",
+  "MinVersion": "1.0.0",
+  "SuperCoolVariable": "\\\ehergiu8483|||}|}ehuierh/.\tbuireh-=-=-regk943 T%*(@$#&*\n\b\o\0439th83gjg30-=-=_"
+}
