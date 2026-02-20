@@ -1,6 +1,6 @@
 {
-  "CurrentVersion": "1.0.0",
-  "MinVersion": "1.0.0",
+  "CurrentVersion": "1.0.1",
+  "MinVersion": "1.0.1",
   "CurrentBetaVersion": "1.0.1",
   "OnlineStatus": "Online",
   "SuperCoolVariable": "\\ehergiu8483|||}|}ehuierh/.\tbuireh-=-=-regk943 T%*(@$#&*\n\b\\o\\0439th83gjg30-=-=_"
