@@ -1,7 +1,7 @@
 {
-  "CurrentVersion": "1.0.2",
-  "MinVersion": "1.0.1",
-  "CurrentBetaVersion": "1.0.3",
+  "CurrentVersion": "1.0.3",
+  "MinVersion": "1.0.2",
+  "CurrentBetaVersion": "1.0.4",
   "OnlineStatus": "Online",
   "SuperCoolVariable": "․"
 }
