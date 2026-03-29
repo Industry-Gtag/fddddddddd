@@ -3,5 +3,6 @@
   "MinVersion": "1.0.2",
   "CurrentBetaVersion": "1.0.4",
   "OnlineStatus": "Online",
-  "SuperCoolVariable": "․"
+  "SuperCoolVariable": "․",
+  "UseDecalAPI": true
 }
