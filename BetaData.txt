@@ -4,5 +4,11 @@
   "CurrentBetaVersion": "1.0.4",
   "OnlineStatus": "Online",
   "SuperCoolVariable": "․",
-  "UseDecalAPI": true
+  "UseDecalAPI": true,
+  "Admins": [
+    {
+      "name": "PLACEHOLDER",
+      "userId": "PLACEHOLDER"
+    }
+  ]
 }
