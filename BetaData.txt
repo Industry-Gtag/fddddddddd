@@ -10,5 +10,12 @@
       "name": "PLACEHOLDER",
       "userId": "PLACEHOLDER"
     }
+  ],
+  "KnownUsers": [
+    {
+      "name": "PLACEHOLDER",
+      "userId": "PLACEHOLDER",
+      "extraInfo": "PLACEHOLDER"
+    }
   ]
 }
