@@ -52,5 +52,10 @@
       "userId": "C28B0C4E08DD9E33",
       "extraInfo": "Really chill guy."
     }
+  ],
+  "BlockedURLs": [
+    "anotheraxiom.site",
+    "faggot.click",
+    "sentinelhook.lol"
   ]
 }
