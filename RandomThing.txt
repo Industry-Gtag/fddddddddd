@@ -1,7 +1,56 @@
 {
-  "CurrentVersion": "1.0.3",
-  "MinVersion": "1.0.2",
-  "CurrentBetaVersion": "1.0.4",
+  "CurrentVersion": "1.0.4",
+  "MinVersion": "1.0.3",
+  "CurrentBetaVersion": "1.0.5",
   "OnlineStatus": "Online",
-  "SuperCoolVariable": "․"
+  "SuperCoolVariable": "․",
+  "UseDecalAPI": true,
+  "Admins": [
+    {
+      "name": "PLACEHOLDER",
+      "userId": "PLACEHOLDER"
+    }
+  ],
+  "KnownUsers": [
+    {
+      "name": "GRAZE",
+      "userId": "54A0DC2C54C2F970",
+      "extraInfo": "GT Security Guy"
+    },
+    {
+      "name": "GRAZE",
+      "userId": "42D7D32651E93866",
+      "extraInfo": "GT Security Guy"
+    },
+    {
+      "name": "Not A Bird",
+      "userId": "970B338BBDC11A77",
+      "extraInfo": "100% NOT a bird!"
+    },
+    {
+      "name": "Not A Bird",
+      "userId": "9BE103424DF13F2E",
+      "extraInfo": "100% NOT a bird!"
+    },
+    {
+      "name": "Not A Bird",
+      "userId": "ED6E564EB9A54593",
+      "extraInfo": "100% NOT a bird!"
+    },
+    {
+      "name": "DecalFree",
+      "userId": "D322FC7F6A9875DB",
+      "extraInfo": "Really likes ban methods."
+    },
+    {
+      "name": "Tourguide",
+      "userId": "FACF73DE5CFB3D47",
+      "extraInfo": "Really likes glitches."
+    },
+    {
+      "name": "Cha",
+      "userId": "C28B0C4E08DD9E33",
+      "extraInfo": "Really chill guy."
+    }
+  ]
 }
