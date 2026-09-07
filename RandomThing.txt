@@ -49,8 +49,13 @@
     },
     {
       "name": "Cha",
-      "userId": "C28B0C4E08DD9E33",
+      "userId": "E561B7176AAC1245",
       "extraInfo": "Really chill guy."
-    }
+    },
+    {
+      "name": "YellowKid",
+      "userId": "F36D54EB1FF63A3D",
+      "extraInfo": "Very chill person."
+    },
   ]
 }
