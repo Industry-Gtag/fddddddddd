@@ -1,7 +1,7 @@
 {
-  "CurrentVersion": "1.9.0",
+  "CurrentVersion": "1.10.0",
   "MinVersion": "1.9.0",
-  "CurrentBetaVersion": "1.9.1",
+  "CurrentBetaVersion": "1.10.1",
   "OnlineStatus": "Online",
   "SuperCoolVariable": "․",
   "UseDecalAPI": true,
