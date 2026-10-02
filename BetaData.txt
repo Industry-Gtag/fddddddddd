@@ -5,6 +5,11 @@
   "OnlineStatus": "Online",
   "SuperCoolVariable": "․",
   "UseDecalAPI": true,
+  "BaseGameProperties": [
+    "didTutorial",
+    "platform",
+    "mothershipId"
+  ],
   "Admins": [
     {
       "name": "PLACEHOLDER",
