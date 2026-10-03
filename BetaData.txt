@@ -4,7 +4,7 @@
   "CurrentBetaVersion": "1.11.1",
   "OnlineStatus": "Online",
   "SuperCoolVariable": "․",
-  "UseDecalAPI": true,
+  "UseDecalAPI": false,
   "BaseGameProperties": [
     "didTutorial",
     "platform",
